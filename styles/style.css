@@ -10,10 +10,33 @@
 
 
 
-/* Vardas2 stiliaus kodas: */
+/* Dominyka stiliaus kodas: */
+.container{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
 
+.box{
+    width: 40%;
+    text-align: center;
+    
+}
 
+.box img{
+    /* border-radius: 0%; */
+    width: 70%;
+}
 
+.box p{
+    background-color: transparent;
+}
 
 
 /* Vardas3 stiliaus kodas: */

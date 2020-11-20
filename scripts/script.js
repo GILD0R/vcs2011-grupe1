@@ -10,7 +10,7 @@
 
 
 
-/* Vardas2 stiliaus kodas: */
+/* Dominykos stiliaus kodas: */
 
 
 
