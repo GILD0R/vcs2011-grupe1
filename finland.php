@@ -4,13 +4,20 @@
 
 <body>
     <div class="container">
+    
     <div class="row">
     <div class="col s12">
+      <img class="responsive-img circle" src="images/finland1.jpeg">
+
+      <div class="pagrindine-nuotrauka"></div>
+
+    </div>
+    <div class="col s12">
       <div class="card">
-        <div class="card-image">
-          <img src="images/finland1.jpeg">
+        <!-- <div class="card-image">
+          
           <span class="card-title">FINLAND</span>
-        </div>
+        </div> -->
         <div class="card-content">
           <p>Finland, country located in northern Europe. Finland is one of the world’s most northern and geographically remote countries and is subject to a severe climate. Nearly two-thirds of Finland is blanketed by thick woodlands, making it the most densely forested country in Europe. Finland also forms a symbolic northern border between western and eastern Europe: dense wilderness and Russia to the east, the Gulf of Bothnia and Sweden to the west.</p>
         </div>

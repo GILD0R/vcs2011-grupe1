@@ -4,11 +4,21 @@
 
 
 
-/* Vardas1 stiliaus kodas: */
+/* Povilas stiliaus kodas: */
+
+img.brand-logo{
+    
+    background: fixed;
+    text-align: center;
+    width: 33%;
+    height: 200px;
+}
+
+.flag-menu img{
+height: 15px;
 
 
-
-
+}
 
 /* Dominyka stiliaus kodas: */
 .container{
@@ -39,10 +49,14 @@
 }
 
 
-/* Vardas3 stiliaus kodas: */
+
+
+
+/* Dmitrij stiliaus kodas: */
 
 
 
 
 
 /* Redita stiliaus kodas: */
+
