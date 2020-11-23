@@ -16,7 +16,8 @@
 
 
 
-/* Vardas3 stiliaus kodas: */
+/* Dmitrij stiliaus kodas: */
+
 
 
 
