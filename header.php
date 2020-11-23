@@ -25,6 +25,7 @@
   
   <div class="row blue-grey lighten-4 flag-menu" >
     <div class="col s4 offset-s8">
+    <a href="index.php"><img src="" class="circle responsive-img" alt="">Home</a>
       <a href="norway.php"><img src="images/flag-norway-M.jpg" class="circle responsive-img" alt="">Visit Norway</a>
       <a href="sweden.php"><img src="images/flag-sweden-M.jpg" class="circle" alt="">Visit Sweden</a>
       <a href="finland.php"><img src="images/flag-finland-M.jpg" class="circle" alt="">Visit Finland</a>
