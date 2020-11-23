@@ -23,7 +23,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 
-/* Vardas3 stiliaus kodas: */
+/* Dmitrij stiliaus kodas: */
+
 
 
 
