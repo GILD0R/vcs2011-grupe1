@@ -5,6 +5,12 @@
 
 
 /* Povilas stiliaus kodas: */
+.centrinis-textas{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 
 img.brand-logo{
     
@@ -16,8 +22,21 @@ img.brand-logo{
 
 .flag-menu img{
 height: 15px;
+}
+.section1{
+    padding: 0%;
+}
 
+.section2 {
+    padding: 0;
+    margin-left: 0;
+}
 
+.centrine-dalis {
+    display: flex;
+    justify-content: space-evenly;
+    
+    
 }
 
 /* Dominyka stiliaus kodas: */
@@ -26,6 +45,25 @@ height: 15px;
     margin-left: auto;
     margin-right: auto;
 }
+.text h1 {
+    color: red;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.text h3 {
+    color: black;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.card {
+    height: 300px;
+}
+
+
+
 .flex{
     display: flex;
     justify-content: space-evenly;
