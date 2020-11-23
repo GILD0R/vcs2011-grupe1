@@ -5,10 +5,20 @@
 
 
 /* Povilas stiliaus kodas: */
+
+.main{
+    background-image: url(../images/lanscape.png);
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
 .centrinis-textas{
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    font-family: 'Texturina', serif;
 }
 
 
@@ -23,6 +33,9 @@ img.brand-logo{
 .flag-menu img{
 height: 15px;
 }
+.flag-menu{
+    margin-bottom: 0;
+}
 .section1{
     padding: 0%;
 }
@@ -31,12 +44,22 @@ height: 15px;
     padding: 0;
     margin-left: 0;
 }
+.section2 h5{
+    font-family: 'Texturina', serif;
+}
 
 .centrine-dalis {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-evenly;   
     
-    
+}
+.permatomas{
+    justify-content: space-evenly; 
+    padding: 10%;
+    color: oldlace;
+}
+.permatomas img{
+    align-items: center;
 }
 
 /* Dominyka stiliaus kodas: */
@@ -58,9 +81,9 @@ height: 15px;
     text-align: center;
 }
 
-.card {
+/* .card {
     height: 300px;
-}
+} */
 
 
 

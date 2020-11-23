@@ -9,17 +9,21 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
   <link rel="stylesheet" href="styles/style.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Texturina:ital,wght@1,100&display=swap" rel="stylesheet"> 
 
 
   <title>Scandinavian Embassy</title>
 </head>
 
 <body>
+  <div class="blue-grey lighten-4">
   <img class="brand-logo" src="images/another-H.jpg" alt="logo">
   <img class="brand-logo" src="images/newHeader.jpg" alt="logo">
   <img class="brand-logo" src="images/header-image.jpg" alt="logo">
+  </div>
   
-  <div class="row grey darken-4 flag-menu" >
+  <div class="row blue-grey lighten-4 flag-menu" >
     <div class="col s4 offset-s8">
       <a href="norway.php"><img src="images/flag-norway-M.jpg" class="circle responsive-img" alt="">Visit Norway</a>
       <a href="sweden.php"><img src="images/flag-sweden-M.jpg" class="circle" alt="">Visit Sweden</a>
