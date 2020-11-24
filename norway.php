@@ -2,7 +2,32 @@
 
 <body>
   <div class="container">
-      <img class="responsive-img" class="activator" src="images/NORWAY1.jpg" alt="">
+  <div class="slider">
+    <ul class="slides">
+      <li>
+        <img class="responsive-img" src="images/norway6.jpg"> 
+        <div class="caption center-align">
+        </div>
+      </li>
+      <li>
+        <img class="responsive-img" src="images/norway7.jpg"> 
+        <div class="caption left-align">
+          <h3>Northen Lights</h3>
+        </div>
+      </li>
+      <li>
+        <img class="responsive-img" src="images/norway8.jpg"> 
+        <div class="caption right-align">
+          <h3>Visit the most beautiful fjords</h3>
+        </div>
+      </li>
+      <li>
+        <img class="responsive-img" src="images/norway9.jpg"> 
+        <div class="caption center-align">
+        </div>
+      </li>
+    </ul>
+  </div> 
       <div class="text">
         <h1>Make your trip to Norway an unforgettable experience.</h1>
       </div>
