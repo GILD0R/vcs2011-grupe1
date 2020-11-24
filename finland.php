@@ -14,8 +14,8 @@
         <!-- <img class="responsive-img circle" src="images/finland1.jpeg"> -->
       </div>
       </div>
-      
 
+      
       <!-- <div class="pagrindine-nuotrauka"></div> -->
 
     </div>
