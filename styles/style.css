@@ -5,10 +5,20 @@
 
 
 /* Povilas stiliaus kodas: */
+
+.main{
+    background-image: url(../images/lanscape.png);
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
 .centrinis-textas{
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    font-family: 'Texturina', serif;
 }
 
 
@@ -23,6 +33,9 @@ img.brand-logo{
 .flag-menu img{
 height: 15px;
 }
+.flag-menu{
+    margin-bottom: 0;
+}
 .section1{
     padding: 0%;
 }
@@ -31,12 +44,22 @@ height: 15px;
     padding: 0;
     margin-left: 0;
 }
+.section2 h5{
+    font-family: 'Texturina', serif;
+}
 
 .centrine-dalis {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-evenly;   
     
-    
+}
+.permatomas{
+    justify-content: space-evenly; 
+    padding: 10%;
+    color: oldlace;
+}
+.permatomas img{
+    align-items: center;
 }
 
 /* Dominyka stiliaus kodas: */
@@ -46,23 +69,18 @@ height: 15px;
     margin-right: auto;
 }
 .text h1 {
-    color: red;
+    color: black;
     font-size: 50px;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
-.text h3 {
+
+.text1 h1 {
     color: black;
-    font-size: 30px;
+    font-size: 50px;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
-
-.card {
-    height: 300px;
-}
-
-
 
 .flex{
     display: flex;
@@ -85,9 +103,18 @@ height: 15px;
 .box p{
     background-color: transparent;
 }
-
-
-
+.city img.materialboxed {
+margin-left: auto;
+margin-right: auto;
+}
+.video1 {
+    margin-top: 150px;
+    margin-left: 65px;
+}
+.video2 {
+    margin-top: 45px;
+    margin-left: 65px;
+}
 
 
 /* Dmitrij stiliaus kodas: */
