@@ -56,7 +56,7 @@
     <div class="col s12">
     <div class="card horizontal">
       <div class="card-image">
-        <img src="images/finland4.jpg" class="circle">
+        <img src="images/finland4.jpg">
       </div>
       <div class="card-stacked">
         <div class="card-content">
