@@ -133,6 +133,16 @@ margin-right: auto;
     0px 0px 10px  white,
     0px 0px 10px  white;
 }
+.cities-logo{
+    /* height: 250px; */
+    width: 100%;
+}
+.fonas-sweden{
+    background-image: url("../images/snowSweden.jpg");
+    background-size: cover;
+    background-position: center center;
+    overflow: hidden;
+}
 
 
 
@@ -140,3 +150,21 @@ margin-right: auto;
 
 /* Redita stiliaus kodas: */
 
+.main-image-block {
+    text-align: center;
+}
+
+.main-image-wrapper {
+    display: inline-block;
+    width: 50%;
+}
+
+.main-image {
+    background-image: url("../images/finland1.jpeg");
+    background-position: center center;
+    background-size: cover;
+    width: 100%;
+    /* height: 100px; */
+    border-radius: 50%;
+    padding-top: 100%;
+}
