@@ -6,6 +6,22 @@
 
 /* Povilas stiliaus kodas: */
 
+.main{
+    background-image: url(../images/lanscape.png);
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+.centrinis-textas{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Texturina', serif;
+}
+
+
 img.brand-logo{
     
     background: fixed;
@@ -16,8 +32,34 @@ img.brand-logo{
 
 .flag-menu img{
 height: 15px;
+}
+.flag-menu{
+    margin-bottom: 0;
+}
+.section1{
+    padding: 0%;
+}
 
+.section2 {
+    padding: 0;
+    margin-left: 0;
+}
+.section2 h5{
+    font-family: 'Texturina', serif;
+}
 
+.centrine-dalis {
+    display: flex;
+    justify-content: space-evenly;   
+    
+}
+.permatomas{
+    justify-content: space-evenly; 
+    padding: 10%;
+    color: oldlace;
+}
+.permatomas img{
+    align-items: center;
 }
 
 /* Dominyka stiliaus kodas: */
@@ -26,6 +68,20 @@ height: 15px;
     margin-left: auto;
     margin-right: auto;
 }
+.text h1 {
+    color: black;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.text1 h1 {
+    color: black;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
 .flex{
     display: flex;
     justify-content: space-evenly;
@@ -47,9 +103,18 @@ height: 15px;
 .box p{
     background-color: transparent;
 }
-
-
-
+.city img.materialboxed {
+margin-left: auto;
+margin-right: auto;
+}
+.video1 {
+    margin-top: 150px;
+    margin-left: 65px;
+}
+.video2 {
+    margin-top: 45px;
+    margin-left: 65px;
+}
 
 
 /* Dmitrij stiliaus kodas: */
@@ -67,6 +132,16 @@ height: 15px;
     text-shadow: 0px 0px 10px  white,
     0px 0px 10px  white,
     0px 0px 10px  white;
+}
+.cities-logo{
+    /* height: 250px; */
+    width: 100%;
+}
+.fonas-sweden{
+    background-image: url("../images/stockholm.jpg");
+    background-size: cover;
+    background-position: center center;
+    overflow: hidden;
 }
 
 
