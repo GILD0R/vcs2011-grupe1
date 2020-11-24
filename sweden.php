@@ -14,13 +14,13 @@
       <p>
         Stockholm is the capital and most populous urban area of Sweden as well as in Scandinavia. Stockholm is the cultural, media, political, and economic centre of Sweden.
       </p>
-      <a class="waves-effect waves-light btn-small" href="https://international.stockholm.se/">Stockholmn</a>
+      <a class="waves-effect waves-light btn-small" href="https://international.stockholm.se/">Stockholm</a>
     </div>
     <div class="col s12 m6 l4">
       <img class="cities-logo" src="images/gothenburg2.jpg" alt="Gothenburg photo">
       <h3>Gothenburg</h3>
       <p>
-        Gothenburg is home to many students, as the city includes the University of Gothenburg and Chalmers University of Technology.      
+        Gothenburg is home to many students, as the city includes the University of Gothenburg and Chalmers University of Technology.                                           
       </p>
       <a class="waves-effect waves-light btn-small" href="https://www.goteborg.com/en/">Gothenburg</a>
     </div>
@@ -28,7 +28,7 @@
       <img class="cities-logo" src="images/malmo.jpg" alt="Malmö photo">
       <h3>Malmö</h3>
       <p>
-        Malmö was one of the earliest and most industrialized towns in Scandinavia, but it struggled to adapt to post-industrialism.     
+        Malmö  was  one  of  the  earliest  and  most  industrialized  towns  in  Scandinavia,  but  it  struggled  to  adapt  to  post-industrialism.                                              
       </p>
        <a class="waves-effect waves-light btn-small" href="https://malmo.se/malmotown/en.html">Malmö</a>
     </div>
