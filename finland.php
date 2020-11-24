@@ -7,9 +7,16 @@
     
     <div class="row">
     <div class="col s12">
-      <img class="responsive-img circle" src="images/finland1.jpeg">
 
-      <div class="pagrindine-nuotrauka"></div>
+      <div class="main-image-block">
+      <div class="main-image-wrapper">
+        <div class="main-image"></div>
+        <!-- <img class="responsive-img circle" src="images/finland1.jpeg"> -->
+      </div>
+      </div>
+      
+
+      <!-- <div class="pagrindine-nuotrauka"></div> -->
 
     </div>
     <div class="col s12">

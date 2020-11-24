@@ -75,3 +75,21 @@ height: 15px;
 
 /* Redita stiliaus kodas: */
 
+.main-image-block {
+    text-align: center;
+}
+
+.main-image-wrapper {
+    display: inline-block;
+    width: 60%;
+}
+
+.main-image {
+    background-image: url("../images/finland1.jpeg");
+    background-position: center center;
+    background-size: cover;
+    width: 100%;
+    /* height: 100px; */
+    border-radius: 50%;
+    padding-top: 100%;
+}
